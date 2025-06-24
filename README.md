@@ -4,5 +4,5 @@ This repository contains two projects: **VibeCheck** and **Cheat Buster**.
 
  Please check the README files inside each folder for more details:
 
-- `vibecheck/README.md`
+- `vibecheck/README.md` https://github.com/shybash-shaik/week_02/tree/main/cheat-buster#readme
 - `cheat-buster/README.md`
